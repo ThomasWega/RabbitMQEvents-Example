@@ -1,0 +1,7 @@
+name: TestMQ
+version: '${version}'
+main: me.wega.testmq.TestMQ
+api-version: '1.19'
+authors: [Wega]
+description: Example usage of ThomasWega/RabbitMQEvents
+website: https://github.com/ThomasWega/RabbitMQEvents
